@@ -1,0 +1,15 @@
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\bin\Debug\net6.0\helloWorld.exe
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\bin\Debug\net6.0\helloWorld.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 12 - Codificação para Back-End\SA2\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
